@@ -10,6 +10,7 @@ An Account can have multiple trades with the following mandatory attributes (you
 * SecurityCode (3 letters)
 * Timestamp
 * Amount
+* Buy or Sell
 * Status (Placed, Executed, Expired)
 
 Create a 2-tier application in C# having a RESTFul API and a persistence layer.
