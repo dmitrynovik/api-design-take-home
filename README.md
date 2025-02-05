@@ -15,6 +15,7 @@ An Account can have multiple trades with the following mandatory attributes (you
 
 Create a 2-tier application in C# having a RESTFul API and a persistence layer.
 * The CRUD API for Accounts
+* The Search API for Accounts by its attributes such as ID or Last Name which should be efficient and prevent known exploits.
 * The API for trades
     * Place Trade
     * Update Trade (change its status)
