@@ -1,6 +1,6 @@
 # Problem Statement
 
-We want to create a simplified API placing trades on a Stock Exchange.
+We want to create a simplified API placing trades on a Stock Exchange to be used by a large bank having many millions of accounts.
 
 We have an account model with the following mandatory attributes (you can add atributes if needed):
 * First Name
