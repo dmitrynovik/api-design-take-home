@@ -1,5 +1,7 @@
 # Problem Statement
 
+We want to create a simplified API placing trades on a Stock Exchange.
+
 We have an account model with the following mandatory attributes (you can add atributes if needed):
 * First Name
 * Last Name
